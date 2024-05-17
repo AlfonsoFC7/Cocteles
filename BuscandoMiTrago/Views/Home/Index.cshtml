@@ -1,0 +1,78 @@
+﻿@Model 
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">BUSCANDO MI TRAGO</h1>
+    <p>COCTELES</p>
+
+    <form action="/Home/Index" method="GET">
+        <input type="text" class="form-control" name="strDrink" placeholder="Busca tu coctel" aria-label="Busca tu coctel">
+        <br />
+        <button class="btn btn-primary" type="submit">
+            Buscar
+        </button>
+    </form>
+
+</div>
+<div class="container">
+    <div class="center">
+        <div class='row'>
+            <div class='col-sm-3'>
+         @foreach (var item in ViewBag.drinks)
+        {
+          
+            
+
+                <figure>
+                        <img src='@item.strDrinkThumb' width='95%' />
+                        <figcaption><br>@item.strDrink</figcaption>
+                </figure>
+
+            
+            
+        } 
+            </div>
+            <div class="col-md-3 form-horizontal">
+                <form action="/Home/PostDta" method="post">
+
+                    <label for="file-upload" class="form-control" name="strDrinkThumb">
+                        <i type="text" class="fa fa-cloud-upload" class="form-control" name="strDrinkThumb"></i> Subir archivo
+                    </label>
+                    <input id="file-upload" type="file" name="strDrinkThumb" />
+                    <input type="text" class="form-control" name="strDrink" placeholder="Nombre" required>
+                    <br />
+                    <button class="btn btn-primary" type="submit">
+                        Guardar
+                    </button>
+                </form>
+                <br />
+                <div>
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>Clave</th>
+                                <th>Imagen</th>
+                                <th>Nombre</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            
+                                @foreach (var itemm in ViewBag.Cocteles)
+                                {
+                                <tr>
+                                    <td>@itemm.idDrink</td>
+                                    <td><img src="img/@itemm.strDrinkThumb" width='35%' /></td>
+                                    <td>@itemm.strDrink</td>
+                                    <td>@Html.ActionLink("Delete","DeleteDrink", "Home", new { idDrink = @itemm.idDrink })</td>
+                                </tr>
+                                }
+                            
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        </<div>
+        </div>

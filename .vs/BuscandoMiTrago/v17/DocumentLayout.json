@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\core\\source\\repos\\BuscandoMiTrago\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F29C0E-74AE-4B4F-8E7D-D7F4517D661A}|BuscandoMiTrago\\BuscandoMiTrago.csproj|c:\\users\\core\\source\\repos\\buscandomitrago\\buscandomitrago\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F29C0E-74AE-4B4F-8E7D-D7F4517D661A}|BuscandoMiTrago\\BuscandoMiTrago.csproj|solutionrelative:buscandomitrago\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F29C0E-74AE-4B4F-8E7D-D7F4517D661A}|BuscandoMiTrago\\BuscandoMiTrago.csproj|c:\\users\\core\\source\\repos\\buscandomitrago\\buscandomitrago\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4F29C0E-74AE-4B4F-8E7D-D7F4517D661A}|BuscandoMiTrago\\BuscandoMiTrago.csproj|solutionrelative:buscandomitrago\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F29C0E-74AE-4B4F-8E7D-D7F4517D661A}|BuscandoMiTrago\\BuscandoMiTrago.csproj|c:\\users\\core\\source\\repos\\buscandomitrago\\buscandomitrago\\models\\drinks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F29C0E-74AE-4B4F-8E7D-D7F4517D661A}|BuscandoMiTrago\\BuscandoMiTrago.csproj|solutionrelative:buscandomitrago\\models\\drinks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F29C0E-74AE-4B4F-8E7D-D7F4517D661A}|BuscandoMiTrago\\BuscandoMiTrago.csproj|c:\\users\\core\\source\\repos\\buscandomitrago\\buscandomitrago\\dtactx\\dbcontextt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F29C0E-74AE-4B4F-8E7D-D7F4517D661A}|BuscandoMiTrago\\BuscandoMiTrago.csproj|solutionrelative:buscandomitrago\\dtactx\\dbcontextt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F29C0E-74AE-4B4F-8E7D-D7F4517D661A}|BuscandoMiTrago\\BuscandoMiTrago.csproj|c:\\users\\core\\source\\repos\\buscandomitrago\\buscandomitrago\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4F29C0E-74AE-4B4F-8E7D-D7F4517D661A}|BuscandoMiTrago\\BuscandoMiTrago.csproj|solutionrelative:buscandomitrago\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F29C0E-74AE-4B4F-8E7D-D7F4517D661A}|BuscandoMiTrago\\BuscandoMiTrago.csproj|c:\\users\\core\\source\\repos\\buscandomitrago\\buscandomitrago\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A4F29C0E-74AE-4B4F-8E7D-D7F4517D661A}|BuscandoMiTrago\\BuscandoMiTrago.csproj|solutionrelative:buscandomitrago\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbContextt.cs",
+              "DocumentMoniker": "C:\\Users\\core\\source\\repos\\BuscandoMiTrago\\BuscandoMiTrago\\DtaCtx\\DbContextt.cs",
+              "RelativeDocumentMoniker": "BuscandoMiTrago\\DtaCtx\\DbContextt.cs",
+              "ToolTip": "C:\\Users\\core\\source\\repos\\BuscandoMiTrago\\BuscandoMiTrago\\DtaCtx\\DbContextt.cs",
+              "RelativeToolTip": "BuscandoMiTrago\\DtaCtx\\DbContextt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T15:13:25.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\core\\source\\repos\\BuscandoMiTrago\\BuscandoMiTrago\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "BuscandoMiTrago\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\core\\source\\repos\\BuscandoMiTrago\\BuscandoMiTrago\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "BuscandoMiTrago\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-17T06:16:05.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\core\\source\\repos\\BuscandoMiTrago\\BuscandoMiTrago\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BuscandoMiTrago\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\core\\source\\repos\\BuscandoMiTrago\\BuscandoMiTrago\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BuscandoMiTrago\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T05:21:38.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "drinks.cs",
+              "DocumentMoniker": "C:\\Users\\core\\source\\repos\\BuscandoMiTrago\\BuscandoMiTrago\\Models\\drinks.cs",
+              "RelativeDocumentMoniker": "BuscandoMiTrago\\Models\\drinks.cs",
+              "ToolTip": "C:\\Users\\core\\source\\repos\\BuscandoMiTrago\\BuscandoMiTrago\\Models\\drinks.cs",
+              "RelativeToolTip": "BuscandoMiTrago\\Models\\drinks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T03:05:36.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\core\\source\\repos\\BuscandoMiTrago\\BuscandoMiTrago\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BuscandoMiTrago\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\core\\source\\repos\\BuscandoMiTrago\\BuscandoMiTrago\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BuscandoMiTrago\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAADgAAAAAAAAAAAAQwD0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T02:46:27.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\core\\source\\repos\\BuscandoMiTrago\\BuscandoMiTrago\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BuscandoMiTrago\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\core\\source\\repos\\BuscandoMiTrago\\BuscandoMiTrago\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BuscandoMiTrago\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAewEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T22:09:48.494Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
